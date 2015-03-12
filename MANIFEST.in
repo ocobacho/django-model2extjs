@@ -1,0 +1,4 @@
+include LICENSE
+include README.rst
+recursive-include model2extjs/static *
+recursive-include model2extjs/templates *
