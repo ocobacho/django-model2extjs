@@ -11,6 +11,7 @@ Description
 Sometimes if We are working with Django and Extjs we may have to write the same model fields in many places of our Extjs app and that can get very annoying. Django-model2extjs tries to achieve a simple solution to that problem by using the models in our django project to generate the code for different Extjs components(grids, forms and models). The code generated can be further extended to fit the needs of each application. 
 
 - Django-model2extjs doesn't add any database table to your project.
+- The code generated uses Extjs MVC
 
 Detailed documentation is in the "docs" directory.
 
