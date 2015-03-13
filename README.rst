@@ -4,7 +4,9 @@ Django-model2extjs
 
 Model2extjs is a simple Django app for generating Extjs code (grids, forms and models) from Django models.
 
-# Description 
+***********
+Description
+***********
 
 Sometimes if We are working with Django and Extjs we may have to write the same model fields in many places of our Extjs app and that can get very annoying. Django-model2extjs tries to achieve a simple solution to that problem by using the models in our django project to generate the code for different Extjs components(grids, forms and models). The code generated can be further extended to fit the needs of each application. 
 
@@ -12,7 +14,9 @@ Sometimes if We are working with Django and Extjs we may have to write the same 
 
 Detailed documentation is in the "docs" directory.
 
-# Quick start 
+***********
+Quick start 
+***********
 
 1. Download the zip file from https://github.com/ocobacho/django-model2extjs/archive/master.zip
 
@@ -32,7 +36,9 @@ Detailed documentation is in the "docs" directory.
 	
 5. Visit the included url "http://127.0.0.1:8000/model2extjs"
 
-# A brief Markdown Example 
+************************
+A brief Markdown Example
+************************
 
 1. Visit the included url "http://127.0.0.1:8000/model2extjs"
 2. Enter your Extjs app name 
