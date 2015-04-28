@@ -12,7 +12,7 @@ Ext.define('Ocgenerator.view.djmodel.list', {
            //{header: 'id', dataIndex: 'id',  flex: 0.2},
            {header: 'name', dataIndex: 'name',  flex: 0.1},
            {header: 'Download', xtype: 'templatecolumn', 
-            tpl:'<a href="{modellink}">{name}.js</a>, <a href="{formlink}">{name}form.js</a>, <a href="{gridlink}">grid.js</a>',flex: 0.3},
+            tpl:'<a href="{modellink}">{name}.js</a>, <a href="{formlink}">{name}form.js</a>, <a href="{gridlink}">grid.js</a>, <a href="{applink}">app.tar</a>',flex: 0.3},
            {header: 'model', dataIndex: 'model',  flex: 0.2},
            {header: 'grid', dataIndex: 'grid',  flex: 0.2},
            {header: 'form', dataIndex: 'form',  flex: 0.2},
